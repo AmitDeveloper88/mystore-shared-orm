@@ -22,6 +22,7 @@ npm install
 
 Run migrations: npx typeorm migration:run
 
+![image](https://github.com/user-attachments/assets/ccc726d4-b123-4f4a-9d92-c816ab717555)
 
 
 
