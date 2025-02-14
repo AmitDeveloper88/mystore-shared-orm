@@ -1,0 +1,9 @@
+{
+  "name": "mystore-shared",
+  "version": "1.0.0",
+  "dependencies": {
+    "pg": "^8.13.3",
+    "typeorm": "^0.3.20",
+    "typescript": "^5.0.0"
+  }
+}
